@@ -1,0 +1,27 @@
+===== DIRECTORY INSPECTOR =====
+
+Scanning: dataset
+
+FILES
+-----
+
+.txt files:
+notes.txt - 1.20 KB
+
+.csv files:
+data.csv - 3.50 KB
+
+FOLDERS
+-------
+images
+models
+
+SUMMARY
+-------
+Total files: 3
+Total folders: 2
+Total size: 4.70 KB
+
+Largest file
+------------
+data.csv - 3.50 KB
